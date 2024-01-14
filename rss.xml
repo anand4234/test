@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:psc="http://podlove.org/simple-chapters/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title><![CDATA[Helloss]]></title>
+        <image>
+            <url>https://st.zvuk.com/r/4a8bda7a-a87a-4470-bc3a-cb26287d5cc6/poster.png</url>
+            <title>Helloss</title>
+            <link><![CDATA[https://st.zvuk.com/champu]]></link>
+        </image>
+        <link>https://st.zvuk.com/champu</link>
+        <description><![CDATA[<p>Hello</p>
+]]></description>
+        <lastBuildDate>Sun, 14 Jan 2024 08:48:27 UTC</lastBuildDate>
+        <author>Hellos</author>
+        <copyright><![CDATA[Copyright © 2024 Hellos. Все права защищены.]]></copyright>
+        <generator>st.zvuk.com</generator>
+        <language>en</language>
+        <itunes:author>Hellos</itunes:author>
+        <itunes:category text="Technology"/>
+        <itunes:summary><![CDATA[<p>Hello</p>
+]]></itunes:summary>
+        <itunes:block>yes</itunes:block>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:image href="https://st.zvuk.com/r/4a8bda7a-a87a-4470-bc3a-cb26287d5cc6/poster.png"/>
+        <itunes:owner>
+            <itunes:name>Hellos</itunes:name>
+            <itunes:email>zetteauba+23@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:type>serial</itunes:type>
+        <item>
+            <title><![CDATA[champus]]></title>
+            <link><![CDATA[https://st.zvuk.com/champu/ca6dcafd-38d9-48b6-936e-4faaf48fe22b]]></link>
+            <pubDate>Thu, 11 Jan 2024 18:45:36 UTC</pubDate>
+            <guid isPermaLink="false">ca6dcafd-38d9-48b6-936e-4faaf48fe22b</guid>
+            <description><![CDATA[<p>champu</p>
+]]></description>
+            <enclosure length="43172" type="audio/mp3" url="https://st.zvuk.com/r/4a8bda7a-a87a-4470-bc3a-cb26287d5cc6/ca6dcafd-38d9-48b6-936e-4faaf48fe22b.mp3"/>
+            <itunes:image href="https://st.zvuk.com/r/4a8bda7a-a87a-4470-bc3a-cb26287d5cc6/poster.png"/>
+            <itunes:author><![CDATA[champus]]></itunes:author>
+            <itunes:summary><![CDATA[<p>champu</p>
+]]></itunes:summary>
+            <itunes:duration>00:02</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>trailer</itunes:episodeType>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+    </channel>
+</rss>
